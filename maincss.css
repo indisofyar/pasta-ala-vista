@@ -69,7 +69,7 @@
     min-height: 100%;
     z-index: -1;
     background-color: black;
-    opacity: 0.4;
+    opacity: 1;
 }
 
 .container-bg {
@@ -145,7 +145,7 @@ article:hover .appear{
 				position: relative;
 				display: block;
 				width: 100%;
-				border-radius: 4px;
+				border-radius: 20px;
 				overflow: hidden;
 				object-fit: cover;
 			}
